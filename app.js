@@ -3,7 +3,7 @@ const os = require('os');
 const express = require('express');
 const util = require('util');
 const getIP = require('./Utils/getCurrentIP');
-const sendCode = require('./APIs/sendVerifyCode');
+const sendCode = require('./RESTapi/sendVerifyCode');
 
 const IP = getIP();
 const app = express();
