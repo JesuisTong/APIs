@@ -1,0 +1,39 @@
+{
+  "userinfo": [
+    {
+      "name": "tongZ",
+      "age": 24,
+      "gender": 1,
+      "job": "cowboy",
+      "tel": "18958013866"
+    },
+    {
+      "name": "admin",
+      "age": 99,
+      "gender": 0,
+      "job": "admin",
+      "tel": "18900010001"
+    },
+    {
+      "name": "Mary",
+      "age": 20,
+      "gender": 2,
+      "job": "student",
+      "tel": "18900000000"
+    },
+    {
+      "name": "haha",
+      "age": 240,
+      "gender": 2,
+      "job": "yuiq",
+      "tel": "13800000000"
+    },
+    {
+      "name": "xixi",
+      "age": 12,
+      "gender": 1,
+      "job": "uiio",
+      "tel": "15600010001"
+    }
+  ]
+}
